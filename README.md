@@ -45,16 +45,16 @@ Currently a Ruby on Rails developer @ [Sierra Rails](https://www.sierrarails.com
 <details style="margin-top: 24px;">
   <summary>Other Tools I've Used</summary>
 
-
-<img src="https://img.shields.io/badge/-PostgreSQL-000?style=flat-square&logo=postgresql" height="20" />
-<img src="https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=node.js" height="20" />
-<img src="https://img.shields.io/badge/-Heroku-000?style=flat-square&logo=heroku&logoColor=5d477e" height="20" />
-<img src="https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=0e4e3a" height="20" />
-<img src="https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux" height="20" />
-<img src="https://img.shields.io/badge/Ubuntu-000?style=flat-square&logo=ubuntu" height="20" />
-<img src="https://img.shields.io/badge/Bulma-000?style=flat-square&logo=bulma" height="20" />
-<img src="https://img.shields.io/badge/ExpressJS-000?style=flat-square&logo=express" height="20" />
-<img src="https://img.shields.io/badge/Minitests-000?style=flat-square&logo=" height="20" />
-
+<div>
+  <img src="https://img.shields.io/badge/-PostgreSQL-000?style=flat-square&logo=postgresql" height="20" />
+  <img src="https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=node.js" height="20" />
+  <img src="https://img.shields.io/badge/-Heroku-000?style=flat-square&logo=heroku&logoColor=5d477e" height="20" />
+  <img src="https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=0e4e3a" height="20" />
+  <img src="https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux" height="20" />
+  <img src="https://img.shields.io/badge/Ubuntu-000?style=flat-square&logo=ubuntu" height="20" />
+  <img src="https://img.shields.io/badge/Bulma-000?style=flat-square&logo=bulma" height="20" />
+  <img src="https://img.shields.io/badge/ExpressJS-000?style=flat-square&logo=express" height="20" />
+  <img src="https://img.shields.io/badge/Minitests-000?style=flat-square&logo=" height="20" />
+</div>
 </details>
 
