@@ -40,7 +40,7 @@ Currently a Ruby on Rails developer @ [Sierra Rails](https://www.sierrarails.com
 <div>
   <img src="https://img.shields.io/badge/Trello-000?style=flat-square&logo=trello" height="20" />
   <img src="https://img.shields.io/badge/Linear-000?style=flat-square&logo=linear" height="20" />
-</div
+</div>
 
 <details style="margin-top: 24px;">
   <summary>Other Tools I've Used</summary>
