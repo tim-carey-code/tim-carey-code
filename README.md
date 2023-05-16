@@ -37,12 +37,12 @@ Currently a Ruby on Rails developer @ [Sierra Rails](https://www.sierrarails.com
 </div>
 
 ## Project Management
-<div>
+<div style="margin-bottom: 24px;">
   <img src="https://img.shields.io/badge/Trello-000?style=flat-square&logo=trello" height="20" />
   <img src="https://img.shields.io/badge/Linear-000?style=flat-square&logo=linear" height="20" />
 </div>
 
-<details style="margin-top: 24px;">
+<details>
   <summary>Other Tools I've Used</summary>
 
   <div style="margin-left: 20px;">
