@@ -14,10 +14,10 @@ Currently a Ruby on Rails developer @ [Sierra Rails](https://www.sierrarails.com
 
 ## Languages
 
-<img src="https://img.shields.io/badge/-Ruby-000?style=flat-square&logo=ruby&logoColor=CC342D" height="20" />
-<img src="https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript" height="20" />
-<img src="https://img.shields.io/badge/-HTML-000?style=flat-square&logo=html5" height="20" />
-<img src="https://img.shields.io/badge/JSON-000?style=flat-square&logo=json" height="20" />
+<img src="https://img.shields.io/badge/-Ruby-000?style=flat-square&logo=ruby&logoColor=CC342D" height="20" style="display: block;"/>
+<img src="https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript" height="20" style="display: block;"/>
+<img src="https://img.shields.io/badge/-HTML-000?style=flat-square&logo=html5" height="20" style="display: block;"/>
+<img src="https://img.shields.io/badge/JSON-000?style=flat-square&logo=json" height="20" style="display: block;"/>
 
 ## Frameworks
 
