@@ -3,7 +3,9 @@
 <img src="https://img.shields.io/badge/-Ruby-000?style=flat-square&logo=ruby&logoColor=CC342D" height="40" />
 <img src="https://img.shields.io/badge/-JS-000?style=flat-square&logo=javascript" height="50" />
 <img src="https://img.shields.io/badge/-HTML-000?style=flat-square&logo=html5" height="40" />
-[<a href="https://www.linkedin.com/in/tim-carey-9a45b91b9"><img src="https://img.shields.io/badge/LINKEDIN-000?style=flat-square&logo=linkedin&logoColor=1572B6" height="40"></a>]
+<a href="https://www.linkedin.com/in/tim-carey-9a45b91b9">
+  <img src="https://img.shields.io/badge/LINKEDIN-000?style=flat-square&logo=linkedin&logoColor=1572B6" height="40">
+</a>
 
 
 
