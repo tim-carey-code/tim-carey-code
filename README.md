@@ -42,7 +42,7 @@ Currently a Ruby on Rails developer @ [Sierra Rails](https://www.sierrarails.com
   <img src="https://img.shields.io/badge/Linear-000?style=flat-square&logo=linear" height="20" />
 </div>
 
-<details>
+<details style="margin-top: 24px">
   <summary>Other Tools I've Used</summary>
 
   <div style="margin-left: 20px;">
