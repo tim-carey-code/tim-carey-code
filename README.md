@@ -6,7 +6,7 @@
 <a href="https://twitter.com/TimCareyCodez">
   <img src="https://img.shields.io/badge/TWITTER-000?style=plastic&logo=twitter" height="40" />
 </a>  
-<a href="https://www.linkedin.com/in/tim-carey-9a45b91b9">
+<a href="https://www.linkedin.com/in/timothyrcarey">
   <img src="https://img.shields.io/badge/LINKEDIN-000?style=plastic&logo=linkedin&logoColor=1572B6" height="40">
 </a>
 
